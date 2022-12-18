@@ -1,6 +1,6 @@
 # [Muse Vue Ant Design Dashboard Rtl]
 
-Muse Rtl - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized
+Muse TEST Rtl - Vue Ant Design Dashboard is a beautiful Ant Design Vue admin dashboard with a large number of components, designed to look beautiful and organized
 
 You can use this admin panel to develope your projects.Tools and technologies used in this project are"ant-design-vue/v1.7","vue/v2.6",
  "vue-router/v3.5".
